@@ -1,1 +1,1 @@
-# Cerebral-Stroke-Prediction
+The project titled "Cerebral Stroke Prediction" utilizes machine learning models to predict the risk of cerebral strokes based on clinical data. It evaluates six models (Logistic Regression, SVM, Random Forest, etc.) using an imbalanced dataset of 43,400 instances and achieves up to 98% accuracy with Logistic Regression, SVM, and Random Forest. The project highlights the potential of ML in early stroke detection and improving healthcare outcomes.
